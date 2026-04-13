@@ -1,0 +1,15 @@
+<svg width="120" height="120" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <g fill="#2c3e50">
+    <!-- Tengah -->
+    <path d="M50 10 L55 40 L50 35 L45 40 Z"></path>
+    <rect x="47" y="35" width="6" height="50"></rect>
+
+    <!-- Kiri -->
+    <path d="M25 20 L30 40 L25 35 L20 40 Z"></path>
+    <rect x="22" y="35" width="6" height="50"></rect>
+
+    <!-- Kanan -->
+    <path d="M75 20 L80 40 L75 35 L70 40 Z"></path>
+    <rect x="72" y="35" width="6" height="50"></rect>
+  </g>
+</svg>

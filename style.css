@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.logo img {
+  width: 45px;
+}
+
+.hero {
+  background: #8B0000;
+  color: white;
+  padding: 100px;
+  text-align: center;
+}
